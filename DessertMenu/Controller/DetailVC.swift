@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import SafariServices
 
 class DetailVC: UIViewController {
     
